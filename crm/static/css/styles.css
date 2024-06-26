@@ -1,0 +1,8 @@
+
+.center-text {
+    background-color: greenyellow;
+    padding: 50px;
+    border-radius: 10px;
+    margin: 100px auto;
+    max-width: 500px;
+}
